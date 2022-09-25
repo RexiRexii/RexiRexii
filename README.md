@@ -1,5 +1,4 @@
 <div align="center">
-<h2> Hi, welcome <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://discord.gg/misako" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2300acee.svg?color=5964D5&style=for-the-badge&logo=discord&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
