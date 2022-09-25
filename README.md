@@ -8,6 +8,10 @@
 </a> 
 
 <br />  
+  
+<br />
+I was born in July 11th, 2005
+  
 <br />
 I specialize in C(++/#) and Lua(u)
 
