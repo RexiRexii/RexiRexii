@@ -2,10 +2,6 @@
 <a href="https://discord.gg/misako" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2300acee.svg?color=5964D5&style=for-the-badge&logo=discord&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-  
-<a href="https://twitter.com/ZRexiu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 
 <br />  
 <br />
