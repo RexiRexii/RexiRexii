@@ -4,7 +4,7 @@
 </a>
   
 <a href="https://v3rmillion.net/member.php?action=profile&uid=569052" target="_blank">
-<img src=https://img.shields.io/badge/v3rmillion-%2300acee.svg?color=DD3C3B&style=for-the-badge&logo=discord&logoColor=white alt=v3rmillion style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/v3rmillion-%2300acee.svg?color=DD3C3B&style=for-the-badge&logo=v3rmillion&logoColor=white alt=v3rmillion style="margin-bottom: 5px;" />
 </a> 
 
 <br />  
