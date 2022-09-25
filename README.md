@@ -12,7 +12,7 @@ I specialize in C(++/#) and Lua(u)
 <br />
 
 <br />
-I have a beautiful, gorgeous girlfriend that I plan to marry in few years.
+I have a beautiful, gorgeous girlfriend that I plan to marry in few years. ( A <3 )
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. After all nothing is perfect.<br />
@@ -23,9 +23,4 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexirexii&layout=compact&theme=dark&bg_color=0A0A0A" alt="Rexi's Top Languages"/>
 <br />
-<br />
-<br />
-
-Have a great day.
-
 </div>
