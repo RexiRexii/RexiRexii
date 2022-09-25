@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi, welcome <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <a href="https://discord.gg/misako" target="_blank">
-<img src=[https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=discord style="margin-bottom: 5px;](https://img.shields.io/badge/discord-%2300acee.svg?color=FFFFFF&style=for-the-badge&logo=discord&logoColor=white%20alt=discord%20style=%22margin-bottom:%205px;)" />
+<img src=https://img.shields.io/badge/discord-%2300acee.svg?color=FFFFFF&style=for-the-badge&logo=discord&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
   
 <a href="https://twitter.com/ZRexiu" target="_blank">
