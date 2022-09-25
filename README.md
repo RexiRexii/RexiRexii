@@ -25,7 +25,7 @@ I have a beautiful, gorgeous girlfriend that I plan to marry in few years. ( A <
 
 <br />
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. After all nothing is perfect.<br />
-( Except my girlfriend )
+( Except my girlfriend, she is perfect )
 <br />
 <br />
 
