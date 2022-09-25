@@ -23,9 +23,10 @@ I specialize in C(++/#) and Lua(u)
 I have a beautiful, gorgeous girlfriend that I plan to marry in few years. ( A <3 )
 <br />
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. After all nothing is perfect. 
-  ( Except my girlfriend )<br />
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. After all nothing is perfect.<br />
+( Except my girlfriend )
 <br />
+  
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rexirexii&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Rexi's Github Stats">
 <br />
