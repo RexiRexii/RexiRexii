@@ -1,7 +1,11 @@
 <div align="center">
 <a href="https://discord.gg/misako" target="_blank">
-<img src=https://img.shields.io/badge/discord-%2300acee.svg?color=5964D5&style=for-the-badge&logo=discord&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-%2300acee.svg?color=5964D5&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
+  
+<a href="https://v3rmillion.net/member.php?action=profile&uid=569052" target="_blank">
+<img src=https://img.shields.io/badge/v3rmillion-%2300acee.svg?color=DD3C3B&style=for-the-badge&logo=discord&logoColor=white alt=v3rmillion style="margin-bottom: 5px;" />
+</a> 
 
 <br />  
 <br />
