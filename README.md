@@ -20,8 +20,10 @@ I was born in July 11th, 2005
 I specialize in C(++/#) and Lua(u)
 
 <br />
-I have a beautiful, gorgeous girlfriend that I plan to marry in few years. ( A <3 )
+I have a beautiful, gorgeous [girlfriend](https://github.com/MoleTheDev) that I plan to marry in few years. ( A <3 )
 <br />
+
+
 
 <br />
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. After all nothing is perfect.<br />
