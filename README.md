@@ -37,10 +37,3 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexirexii&layout=compact&theme=dark&bg_color=0A0A0A" alt="Rexi's Top Languages"/>
 <br />
 </div>
-
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#d90e09" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        REXX
-                    </div>
