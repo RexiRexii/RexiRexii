@@ -20,14 +20,10 @@ I was born in July 11th, 2005
 I specialize in C(++/#) and Lua(u)
 
 <br />
-I have a beautiful, gorgeous <a href="https://github.com/MoleTheDev">girlfriend</a> that I plan to marry in few years. ( A ♡ )
-<br />
-
 
 
 <br />
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. After all nothing is perfect.<br />
-( Except my girlfriend, she is perfect )
 <br />
 <br />
 
