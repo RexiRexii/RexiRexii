@@ -1,3 +1,5 @@
+edit so I can make a pull request
+
 <div align="center">
 <a href="https://discord.gg/misako" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2300acee.svg?color=5964D5&style=for-the-badge&logo=nologoretard&logoColor=white alt=discord style="margin-bottom: 5px;" />
