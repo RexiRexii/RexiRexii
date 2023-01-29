@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/v3rmillion-%2300acee.svg?color=DD3C3B&style=for-the-badge&logo=v3rmillion&logoColor=white alt=v3rmillion style="margin-bottom: 5px;" />
 </a> 
   
-<a href="https://wearedevs.net/profile/reputation?uid=59576" target="_blank">
+<a href="https://forum.wearedevs.net/profile/reputation?uid=59576" target="_blank">
 <img src=https://img.shields.io/badge/wearedevs-%2300acee.svg?color=2F2F2F&style=for-the-badge&logo=wearedevs&logoColor=white alt=wearedevs style="margin-bottom: 5px;" />
 </a>
 
