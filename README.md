@@ -11,10 +11,7 @@
 <img src=https://img.shields.io/badge/wearedevs-%2300acee.svg?color=2F2F2F&style=for-the-badge&logo=wearedevs&logoColor=white alt=wearedevs style="margin-bottom: 5px;" />
 </a>
 
-<br />  
-  
-<br />
-I was born in July 11th, 2005
+<br /> 
   
 <br />
 I specialize in C(++/#) and Lua(u)
