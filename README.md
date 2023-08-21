@@ -15,9 +15,6 @@
   
 <br />
 Senior Developer over at Versatile LLC<br />
-<br />
-
-<br />
 Head Developer of Hydrogen Android & Lead Developer of Hydrogen iOS<br />
 <br />
 
