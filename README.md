@@ -14,13 +14,11 @@
 <br /> 
   
 <br />
-I specialize in C(++/#) and Lua(u)
-
+Senior Developer over at Versatile LLC<br />
 <br />
 
-
 <br />
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. After all nothing is perfect.<br />
+Head Developer of Hydrogen Android & Lead Developer of Hydrogen iOS<br />
 <br />
 
 <br />
