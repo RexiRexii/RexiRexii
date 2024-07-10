@@ -6,8 +6,8 @@
 <br /> 
   
 <br />
-Chief Operating Officer over at SPDM Team & Codex Inc.<br />
-Lead Developer of Codex & Arceus<br />
+You might know me for the projects I deal with<br />
+Wave, Arceus & Codex<br />
 <br />
 
 <br />
