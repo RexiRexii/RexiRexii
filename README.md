@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://discord.gg/getwave" target="_blank">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2300acee.svg?color=5964D5&style=for-the-badge&logo=nologoretard&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 
